@@ -1,0 +1,4 @@
+connect to database (setting in backend .env and prisma scheme)
+migrate backend with prisma
+run backend with nodemon
+run frontend with npm start
